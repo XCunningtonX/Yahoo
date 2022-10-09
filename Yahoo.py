@@ -2,8 +2,8 @@ import email
 import imaplib
 import time
 
-my_email = "cunningtonkoo@yahoo.com"
-app_generated_password = "cyuowttehawtxwtk"
+my_email = "XXXX@yahoo.com"
+app_generated_password = "xxxxx"
 
 ################### IMAP ########################
 start = time.time()
